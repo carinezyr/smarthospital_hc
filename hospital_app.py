@@ -4,3 +4,4 @@ import pickle
 
 st.set_page_config(page_title="Smart Hospital Patient Navigator",page_icon="🏥")
                 
+st.title("🏥 Smart Hospital Navigator")
